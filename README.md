@@ -2,6 +2,8 @@
 
 - Investigacion de bases computacionales y logica de sistemas que validen la arquitectura propuesta.
 
+<a href="https://github.com/albertocabezave/Atomic/blob/main/motor/ARQUITECTURA_MOTOR.md">Documentacion del Motor - Leer...</a>
+
 # Objectives:
 ​Research of Computational Foundations: 
 
